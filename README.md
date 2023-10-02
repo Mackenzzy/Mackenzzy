@@ -9,8 +9,8 @@
 -->
 <div>
   <a href="https://www.linkedin.com/in/felipe-sampaio-570234230/">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mackenzzy&theme=tokyonight&hide_border=false"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mackenzzy&theme=tokyonight&show_icons=true&hide_border=false&layout=compact"/>
+  <img height="120em" src="https://github-readme-streak-stats.herokuapp.com/?user=mackenzzy&theme=tokyonight&hide_border=false"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mackenzzy&theme=tokyonight&show_icons=true&hide_border=false&layout=compact"/>
 </div>
 </br>
 
