@@ -1,6 +1,6 @@
 ### Olá, me chamo Felipe.👋</br>
 
-- 🔭 Trabalho como Analista de Dados atualmente, mas ja fui front-end, back-end e estou voltando para as origens e em busca de uma oportunidade de voltar para o front-end</br>
+- 🔭 Trabalho como Desenvolvedor Backend, ja fui front-end, back-end e analista de dados</br>
 - 🌱 Focado em aprender Typescript
 
 
