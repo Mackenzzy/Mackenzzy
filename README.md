@@ -1,6 +1,6 @@
 ### Olá, me chamo Felipe.👋</br>
 
-- 🔭 Trabalho como Desenvolvedor Backend, ja fui front-end, back-end e analista de dados</br>
+- 🔭 Trabalho como Desenvolvedor Full Stack, ja fui front-end, back-end e analista de dados</br>
 - 🌱 Ciência de Dados
 
 
