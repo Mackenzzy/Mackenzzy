@@ -2,6 +2,7 @@
 
 - 🔭 Trabalho como Desenvolvedor Full Stack, ja fui front-end, back-end e analista de dados</br>
 - 🌱 Ciência de Dados
+- Adoro transformar dados em decisões.
 
 
 <!--
@@ -14,7 +15,7 @@
 </div>
 </br>
 
-Aqui estão algumas das habilidades que desenvolvi no meu tempo de estudo:</br>
+Aqui estão algumas das habilidades que desenvolvi ao longo da minha carreira:</br>
 <div>
   
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
@@ -33,6 +34,8 @@ Aqui estão algumas das habilidades que desenvolvi no meu tempo de estudo:</br>
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![SciKit Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
 
 </div>
